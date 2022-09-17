@@ -45,8 +45,6 @@
 
 * **Python:** Version 3.10
 
-* **Sklearn:** Version 1.1.2
-
 * **Spyder IDE**: Version 5.3.2
 
 * **Pandas**: Version 1.4.3
